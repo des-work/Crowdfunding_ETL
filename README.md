@@ -80,6 +80,7 @@ Use Python dictionary methods.
 
 ## Create the Crowdfunding Database
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
+![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/53aeac25-109d-48b7-ac81-4f3f23800931)
 
 2. Use the information from the ERD to create a table schema for each CSV file.
 
