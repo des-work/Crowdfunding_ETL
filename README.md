@@ -32,7 +32,8 @@ The instructions for this mini project are divided into the following subsection
   - A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
   - A "subcategory" column that contains only the subcategory titles
 - The following image shows this subcategory DataFrame:
-![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/775b5a1b-5cf8-468f-bd30-c9e3842495fa)
+  
+  ![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/775b5a1b-5cf8-468f-bd30-c9e3842495fa)
 
 4. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
@@ -53,7 +54,8 @@ The instructions for this mini project are divided into the following subsection
   - The "category_id" column, with unique identification numbers matching those in the "category_id" column of the category DataFrame
   - The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 - The following image shows this campaign DataFrame:
-![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/33980cde-58df-4bc6-9d64-a4c7b729d99e)
+  
+  ![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/33980cde-58df-4bc6-9d64-a4c7b729d99e)
 
 2. Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
@@ -73,7 +75,8 @@ Use Python dictionary methods.
   - Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
 
 - Check that your final DataFrame resembles the one in the following image:
-![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/a2565fc0-2bf6-4432-a875-71789d2accfb)
+
+  ![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/a2565fc0-2bf6-4432-a875-71789d2accfb)
 
 ## Create the Crowdfunding Database
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
