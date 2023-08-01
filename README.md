@@ -23,7 +23,8 @@ The instructions for this mini project are divided into the following subsection
   - A "category" column that contains only the category titles
 
 - The following image shows this category DataFrame:
-![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/93abb3f5-363a-43df-97cb-bab2b17b69fc)
+
+  ![image](https://github.com/des-work/Crowdfunding_ETL/assets/130405173/93abb3f5-363a-43df-97cb-bab2b17b69fc)
 
 2. Export the category DataFrame as category.csv and save it to your GitHub repository.
 
